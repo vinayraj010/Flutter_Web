@@ -29,6 +29,7 @@ Card buildCard() {
           Container(
             padding: EdgeInsets.all(10),
             child: TextField(
+              obscureText: true,
               decoration: InputDecoration(
                 border: OutlineInputBorder(),
                 hintText: 'Password',
