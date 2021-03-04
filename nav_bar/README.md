@@ -1,4 +1,5 @@
 # web Navbar using onGenerateRoute in Flutter
 A new Flutter application. Coding & Mechatronics.  https://youtu.be/TrGUygQTiaY
 
-https://user-images.githubusercontent.com/30105909/110018619-78593c80-7d4d-11eb-9c68-24aa199f0059.mp4
+![navbardemo](https://user-images.githubusercontent.com/30105909/110025067-e81ef580-7d54-11eb-9f48-3e9337ae0b9a.gif)
+
