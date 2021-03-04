@@ -1,8 +1,4 @@
-# app_bar
-A new Flutter application.
+# web Navbar using onGenerateRoute in Flutter
+A new Flutter application. Coding & Mechatronics.  https://youtu.be/TrGUygQTiaY
 
-![web navbar](https://user-images.githubusercontent.com/30105909/109852650-fd275600-7c7a-11eb-8c85-abbc380ac294.JPG)
-
-
-
-
+https://user-images.githubusercontent.com/30105909/110018619-78593c80-7d4d-11eb-9c68-24aa199f0059.mp4
